@@ -64,3 +64,4 @@ export interface TransactionReceipt {
   gasUsed: bigint;
 }
 
+// @ts-check
