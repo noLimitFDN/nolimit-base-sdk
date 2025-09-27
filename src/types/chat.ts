@@ -56,3 +56,4 @@ export interface ChatStreamOptions extends ChatOptions {
   onChunk?: (chunk: StreamChunk) => void;
 }
 
+// types v1
