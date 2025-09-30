@@ -32,3 +32,4 @@ export const TOKEN_CONFIGS: Record<SupportedToken, TokenConfig> = {
   },
 };
 
+// base tokens
