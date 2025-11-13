@@ -71,3 +71,4 @@ const response = await client.chat.send(
 - Default: 60 requests/minute
 - Enterprise: Custom limits available
 
+## Errors
